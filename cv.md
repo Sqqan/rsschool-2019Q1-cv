@@ -4,7 +4,7 @@ Lolita Hurko
 FondMoha@gmail.com
 +375445429796 vel
 
-Summary
+ Summary
 A talented graduate developer with a strong academic background and some
 commercial experience. Ability to think through a problem coupled with the
 confidence to make ideas heard. A proven ability to maintain and enhance
