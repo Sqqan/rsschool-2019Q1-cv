@@ -1,4 +1,4 @@
-**Resume**
+Resume
 
 Lolita Hurko
 FondMoha@gmail.com
