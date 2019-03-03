@@ -35,9 +35,9 @@ module.exports = function warmup(temperature) {
 ```
 ___
 #### Education
- ######  ***Mogilev State University named after A. A. Kuleshov . Mogilev***
+ #####  ***Mogilev State University named after A. A. Kuleshov . Mogilev***
 *2017-2021*
- ###### ***Rssschool 2019*** 
+ ##### ***Rssschool 2019*** 
 
 ___
 #### English Experience
@@ -45,6 +45,6 @@ ___
 
 Pre-intermediate (А2)
 
-3 years experience
+
 ___
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
