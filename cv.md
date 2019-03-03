@@ -24,6 +24,13 @@ Working with analyst programmers in providing support to the IT business
 systems. Responsible for ensuring software reliability, fitness for purpose,
 efficiency, security, safety and maintainability.
 
+#### Code Examples
+``` js
+ // My code for warmup task
+module.exports = function warmup(temperature) {
+  return (temperature*1.8+32); `
+}; 
+```
 Education
 Mogilev State University named after A. A. Kuleshov . Mogilev 2017-2021
 Rssschool 2019
