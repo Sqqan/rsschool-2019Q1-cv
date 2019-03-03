@@ -1,1 +1,1 @@
-# rsschool-2019Q1-cv
+# https://sqqan.github.io/rsschool-2019Q1-cv/cv
