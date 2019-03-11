@@ -1,0 +1,26 @@
+body{
+    max-width: 1012px;
+    margin-right: auto;
+    margin-left: auto;
+    margin: 0 auto;
+
+}
+
+
+.conteiner{
+    margin-left: 30px;
+}
+.sammary{
+display: flex;
+height: 30%;
+}
+.summary-conteiner{
+    margin-left: 242px;
+    margin-top: -243px;
+}
+ul{
+    padding-left: 4em;
+}
+li{
+    margin-top: 1em;
+}
