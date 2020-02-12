@@ -20,7 +20,7 @@ with business requirement.
  + Development Software: Xcode(5), Eclipse(10); Git(3)
  + Technologies: RESTful web services(4); Grails(3), Jersey(3), Rails(1), 
  + JavaFrameworks(17), multiple JavaScriptframeworks(5);
-+ Platforms: Mac OSX(10+); UNIX/Linux(17);
+ + Platforms: Mac OSX(10+); UNIX/Linux(17);
 
  ___
 
